@@ -1,0 +1,30 @@
+.popup{
+    width: 400px;
+    background:#fff;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+}
+.data{
+    margin: 0px -40px 0px 0px;
+}
+.data h2{
+    font-size: 30px;
+    color: rgb(68, 125, 10);
+}
+.data p{
+    color: rgb(82, 22, 125);
+}
+.data button{
+    width: 100px;
+    background: #6fd649;
+    color: #333;
+    outline: none;
+    border: 0;
+    font-size: 18px;
+}
